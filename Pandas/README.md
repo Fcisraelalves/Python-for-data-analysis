@@ -1,2 +1,2 @@
-![Pandas Logo](https://en.wikipedia.org/wiki/Pandas_(software)#/media/File:Pandas_logo.svg)
+![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg)
 [Documentação do Pandas](https://pandas.pydata.org/docs/)
